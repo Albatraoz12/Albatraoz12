@@ -1,6 +1,6 @@
 ### <h3 align="center">Hi there 👋, my name is Dimosthenis</h3>
 #### <p align="center">Full Stack Web Develepor Student</p>
-[<p align="center">Full Stack Web Develepor Student</p>](https://i.imgur.com/vPSB4fO.png)
+![<p align="center">Full Stack Web Develepor Student</p>](https://i.imgur.com/vPSB4fO.png)
 
 and am from Sweden. I'm studying to become a full stack web developor at Chas Academy ©. I really enjoy learning new languages and looking forwards to learn some frameworks like React and Laravel.
 
@@ -8,7 +8,8 @@ Skills: PHP/JAVASCRIPT/HTML/CSS and more incoming
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Albatraoz12)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Dimosthenis Emmanouil/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Albatraoz12)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dimosthenis-emmanouil-4ba731207/)  
 
 <!-- ### Hi there 👋
 
