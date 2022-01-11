@@ -1,4 +1,4 @@
-### <h3 align="center">Hi there 👋, my name is Dimosthenis</h3>
+### <h3 align="center">Hi there 👋, I'm Dimosthenis</h3>
 #### <p align="center">Full Stack Web Develepor Student</p>
 ![<p align="center">Full Stack Web Develepor Student</p>](https://i.imgur.com/vPSB4fO.png)
 
