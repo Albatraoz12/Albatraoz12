@@ -1,6 +1,6 @@
 ### <h3 align="center">Hi there 👋, my name is Dimosthenis</h3>
 #### <p align="center">Full Stack Web Develepor Student</p>
-![<p align="center">Full Stack Web Develepor Student</p>](https://i.imgur.com/vPSB4fO.png)
+[<p align="center">Full Stack Web Develepor Student</p>](https://i.imgur.com/vPSB4fO.png)
 
 and am from Sweden. I'm studying to become a full stack web developor at Chas Academy ©. I really enjoy learning new languages and looking forwards to learn some frameworks like React and Laravel.
 
