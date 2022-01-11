@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Dimosthenis and am from Sweden, and I'm studying to become a full stack web developor at Chas Academy ©. I really enjoy learning new languages and looking forwards to learn some frameworks like React and Laravel.
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Albatraoz12)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Albatraoz12/Albatraoz12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
