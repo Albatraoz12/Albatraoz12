@@ -5,10 +5,11 @@
 and am from Sweden. I'm studying to become a full stack web developor at Chas Academy ©. I really enjoy learning new languages and looking forwards to learn some frameworks like React and Laravel.
 
 ## Skills:
-* PHP
-* JAVASCRIPT
+* Vanilla JAVASCRIPT basics
 * HTML
 * CSS
+
+- 🌱 I’m currently learning PHP
 
 ## Socials
 
