@@ -1,5 +1,4 @@
-<div align=center;>
-![<p align="center">Full Stack Web Develepor Student</p>](https://github.com/Albatraoz12/Albatraoz12/blob/main/Fullstack_Web_Developer.png) </div>
+![<p align="center">Full Stack Web Develepor Student</p>](https://github.com/Albatraoz12/Albatraoz12/blob/main/Fullstack_Web_Developer.png)
 
 ### Hi there 👋, I'm Dimosthenis
 
