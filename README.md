@@ -9,8 +9,9 @@ and am from Sweden. I'm studying to become a full stack web developor at Chas Ac
 * HTML
 * CSS
 * PHP (Vanilla)
+* Laravel 8
 
-- 🌱 I’m currently learning Laravel 8
+- 🌱 I’m currently learning Jquery, Angular and React
 
 ## Socials
 
