@@ -13,7 +13,7 @@ and am from Sweden. I'm studying to become a full stack web developor at Chas Ac
 * Jquery
 * Angular
 
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning MERN Stack
 
 ## Socials
 
