@@ -12,8 +12,8 @@ and am from Sweden. I'm studying to become a full stack web developor at Chas Ac
 * Laravel 8
 * Jquery
 * Angular
-
-- 🌱 I’m currently learning MERN Stack
+* MERN Stack
+* MEAN Stack
 
 ## Socials
 
