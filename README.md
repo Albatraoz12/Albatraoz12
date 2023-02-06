@@ -11,9 +11,10 @@ and am from Sweden. I'm studying to become a full stack web developor at Chas Ac
 * PHP (Vanilla)
 * Laravel 8
 * Jquery
+* React
 * Angular
+* NextJS 13
 * MERN Stack
-* MEAN Stack
 
 ## Socials
 
