@@ -1,4 +1,4 @@
-![<p align="center">Full Stack Web Develepor Student</p>](https://github.com/Albatraoz12/Albatraoz12/blob/main/Fullstack_Web_Developer.png)
+![<p align="center">Full Stack Web Develepor</p>](https://github.com/Albatraoz12/Albatraoz12/blob/main/Fullstack_Web_Developer.png)
 
 ### Hi there 👋, I'm Dimosthenis
 
@@ -13,6 +13,8 @@ and am from Sweden. I'm studying to become a full stack web developor at Chas Ac
 * Jquery
 * React
 * Angular
+* NodeJs
+* Express
 * NextJS 13
 * MERN Stack
 
