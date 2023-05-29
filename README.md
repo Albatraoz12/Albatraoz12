@@ -8,6 +8,7 @@
 - HTML
 - CSS
 - JavaScript
+- Node JS
 - PHP
 - C#
 - Python
@@ -18,7 +19,6 @@ Frameworks:
 - React
 - Next.js 13
 - MERN Stack (MongoDB, Express, React, Node.js)
-- Node JS
 - Express JS
 
 Databases:
