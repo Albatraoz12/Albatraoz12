@@ -10,8 +10,6 @@
 - JavaScript
 - Node JS
 - PHP
-- C#
-- Python
 
 Frameworks: 
 - Laravel 8
