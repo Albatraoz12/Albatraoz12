@@ -5,7 +5,7 @@
 
 💻 Skills & Expertise:
 
-Frontend: HTML, CSS, JavaScript (React, Angular)
+Frontend: HTML, CSS, JavaScript,
 Backend: Node.js, Express.js, PHP (Laravel 8)
 Frameworks: React, Next.js 13, Laravel 8, jQuery
 Database: MongoDB, MariaDB, PostgreSQL, SQLite
