@@ -14,8 +14,8 @@ Cloud: Google Cloud Platform (GCP)
 
 🌐 On the backend, I excel in PHP with a focus on Laravel 8, enabling me to develop robust, scalable web applications. However, my true passion lies in JavaScript and its ecosystem. With expertise in Node.js, Express, and Next.js, I deliver dynamic, high-performing web solutions across the full stack.
 
-🚀 Committed to staying current with the latest web technologies, I prioritize writing clean, maintainable code and enjoy collaborating with others to drive impactful projects forward.
+🚀 Committed to staying current with the latest web technologies, I prioritize writing clean and maintainable code!
 
-📚 Explore my GitHub repositories for examples of my work and projects I've contributed to. Continuously expanding my skill set, you'll find a diverse range of projects showcasing my capabilities.
+📚 Explore my GitHub repositories for examples of my work. Continuously expanding my skill set, you'll find a diverse range of projects showcasing my capabilities.
 
 📫 Let's connect on LinkedIn to explore collaboration opportunities or learn more about my background and experiences. Together, let's build something extraordinary!
